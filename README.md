@@ -34,11 +34,11 @@ Here are a few technologies I've been working with recently:
 
 You can find me on:
 
-[!shubham-agarwal-0822002a4(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[Your-LinkedIn-Username]/)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-agarwal-0822002a4/)
 
 ---
 
 ### 📊 My GitHub Stats
 
-!ShubhamAg01(https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=radical)
+![Shubham's Github Stats](https://github-readme-stats.vercel.app/api?username=ShubhamAg01&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamAg01&layout=compact&theme=radical)
