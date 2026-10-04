@@ -64,26 +64,6 @@ The goal isn't to build *another forum* — it's to make the platform itself fee
 
 ---
 
-### 🤖 AI Developer Team
-
-> **Exploring AI-native software development.**
-
-An experimental platform investigating how AI agents can collaborate with developers across different stages of the software-development lifecycle.
-
-**Focus:** `AI` · `Agents` · `Developer Tools` · `Automation`
-
----
-
-### 📚 TriApt
-
-> **Placement preparation, redesigned.**
-
-A platform for practicing aptitude, reasoning, programming concepts, technical interviews, HR interviews, mock tests, and interview simulations.
-
-**Focus:** `EdTech` · `React` · `Interactive UX`
-
----
-
 ## `02 / TECH STACK`
 
 <div align="center">
