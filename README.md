@@ -42,25 +42,21 @@ I'm less interested in simply following tutorials and more interested in underst
 
 ## `01 / CURRENTLY BUILDING`
 
-### 🔗 Ziplink
+> [!NOTE] 
+> **🔗 Ziplink — A modern link management platform.**
+> 
+> A product-focused project exploring link management, QR generation, authentication, APIs, and scalable backend architecture.
+> 
+> **Focus:** `Product Engineering` · `Backend` · `SaaS`
 
-> **A modern link management platform.**
+<br/>
 
-A product-focused project exploring link management, QR generation, authentication, APIs, and scalable backend architecture.
-
-**Focus:** `Product Engineering` · `Backend` · `SaaS`
-
----
-
-### 🎮 Gaming Community Platform
-
-> **A social platform built around gamers.**
-
-A gamified gaming community combining communities, finding teammates, gaming news, collectibles, badges, XP, levels, and hidden experiences.
-
-The goal isn't to build *another forum* — it's to make the platform itself feel like a game.
-
-**Focus:** `Community` · `Gamification` · `Social` · `Gaming`
+> [!IMPORTANT]
+> **🎮 Gaming Community Platform — A social platform built around gamers.**
+> 
+> A gamified gaming community combining communities, finding teammates, gaming news, collectibles, badges, XP, levels, and hidden experiences. The goal isn't to build *another forum* — it's to make the platform itself feel like a game.
+> 
+> **Focus:** `Community` · `Gamification` · `Social` · `Gaming`
 
 ---
 
