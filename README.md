@@ -117,6 +117,10 @@ I like working feature-by-feature:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamAg01&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="180"/>
 
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamAg01&theme=github-compact&hide_border=true&area=true" width="95%"/>
+
 </div>
 
 
