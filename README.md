@@ -42,21 +42,23 @@ I'm less interested in simply following tutorials and more interested in underst
 
 ## `01 / CURRENTLY BUILDING`
 
-> [!NOTE] 
-> **🔗 Ziplink — A modern link management platform.**
-> 
-> A product-focused project exploring link management, QR generation, authentication, APIs, and scalable backend architecture.
-> 
-> **Focus:** `Product Engineering` · `Backend` · `SaaS`
+### Ziplink
 
-<br/>
+> **A modern link management platform.**
 
-> [!IMPORTANT]
-> **🎮 Gaming Community Platform — A social platform built around gamers.**
-> 
-> A gamified gaming community combining communities, finding teammates, gaming news, collectibles, badges, XP, levels, and hidden experiences. The goal isn't to build *another forum* — it's to make the platform itself feel like a game.
-> 
-> **Focus:** `Community` · `Gamification` · `Social` · `Gaming`
+A product-focused project exploring link management, QR generation, authentication, APIs, and scalable backend architecture.
+
+**Focus:** `Product Engineering` · `Backend` · `SaaS`
+
+---
+
+### Gaming Community Platform
+
+> **A social platform built around gamers.**
+
+A gamified gaming community combining communities, finding teammates, gaming news, collectibles, badges, XP, levels, and hidden experiences. The goal isn't to build *another forum* — it's to make the platform itself feel like a game.
+
+**Focus:** `Community` · `Gamification` · `Social` · `Gaming`
 
 ---
 
@@ -70,7 +72,7 @@ I'm less interested in simply following tutorials and more interested in underst
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,framer" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
 
 ### Backend
 
@@ -88,28 +90,7 @@ I'm less interested in simply following tutorials and more interested in underst
 
 ---
 
-## `03 / ENGINEERING INTERESTS`
-
-```text
-┌────────────────────────────────────────────────────┐
-│                                                    │
-│  ▸ Full-Stack Architecture                         │
-│  ▸ Backend Engineering                             │
-│  ▸ REST APIs & Service Design                      │
-│  ▸ Database Architecture                            │
-│  ▸ Caching & Performance                           │
-│  ▸ System Design                                   │
-│  ▸ AI Developer Tools                              │
-│  ▸ SaaS Architecture                               │
-│  ▸ Developer Experience                            │
-│  ▸ Data Structures & Algorithms                    │
-│                                                    │
-└────────────────────────────────────────────────────┘
-```
-
----
-
-## `04 / HOW I BUILD`
+## `03 / HOW I BUILD`
 
 ```mermaid
 flowchart LR
@@ -128,65 +109,33 @@ I like working feature-by-feature:
 
 ---
 
-## `05 / GITHUB`
+## `04 / GITHUB`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhamAg01&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ShubhamAg01&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="180"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamAg01&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="180"/>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=ShubhamAg01&theme=github-dark-blue&hide_border=true" />
-
 </div>
 
----
 
-## `06 / CONTRIBUTION GRAPH`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamAg01&theme=github-compact&hide_border=true&area=true" width="95%"/>
-
-</div>
 
 ---
 
-## `07 / CURRENT MISSION`
+## `05 / BEYOND CODE`
 
-```diff
-  2026
-  ─────────────────────────────────────────────
+I like exploring ideas outside of software engineering because good products usually come from combining **different domains and perspectives**.
 
-+ Build products people actually want to use
-+ Become stronger at backend engineering
-+ Go deeper into system design
-+ Understand distributed systems
-+ Build better AI-powered developer tools
-+ Solve harder DSA problems
-+ Ship more. Talk less.
-```
+<br/>
+
+<kbd>&nbsp;Gaming&nbsp;</kbd> &nbsp;&nbsp; <kbd>&nbsp;Manga&nbsp;</kbd> &nbsp;&nbsp; <kbd>&nbsp;Chess&nbsp;</kbd> &nbsp;&nbsp; <kbd>&nbsp;Sci-Fi&nbsp;</kbd> &nbsp;&nbsp; <kbd>&nbsp;Traveling&nbsp;</kbd>
+
+<br/>
 
 ---
 
-## `08 / BEYOND CODE`
-
-```text
-Gaming          🎮
-Manga           📖
-Product Ideas   💡
-Open Source     🛠️
-System Design   🏗️
-AI              🤖
-```
-
-I like exploring ideas outside my immediate stack because good products usually come from combining **different domains and perspectives**.
-
----
-
-## `09 / LET'S BUILD`
+## `06 / LET'S BUILD`
 
 <div align="center">
 
@@ -198,11 +147,7 @@ I'd love to hear about it.
 
 <br/>
 
-<a href="https://github.com/ShubhamAg01">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/shubham-agarwal12/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
