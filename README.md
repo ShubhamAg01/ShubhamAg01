@@ -119,7 +119,7 @@ I like working feature-by-feature:
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamAg01&theme=github-compact&hide_border=true&area=true" width="95%"/>
+<img src="https://streak-stats.demolab.com?user=ShubhamAg01&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
